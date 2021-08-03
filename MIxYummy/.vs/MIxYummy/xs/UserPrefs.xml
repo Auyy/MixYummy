@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9DD912AC-4064-44A4-9CF0-5A1E0FF09CB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MIxYummy/Repositories/MY_Profile_ShopRepoitory.cs">
+    <Files>
+      <File FileName="MIxYummy/Repositories/MY_Profile_ShopRepoitory.cs" Line="96" Column="21" />
+      <File FileName="MIxYummy/Services/MY_Profile_ShopServices.cs" />
+      <File FileName="MIxYummy/ApiControllers/MY_Profile_ShopApiController.cs" />
+      <File FileName="MIxYummy/Controllers/HomeController.cs" />
+      <File FileName="MIxYummy/Views/Home/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MIxYummy" expanded="True">
+            <Node name="MIxYummy" expanded="True">
+              <Node name="ApiControllers" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="MY_Profile_ShopRepoitory.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MIxYummy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/tangkwa/Library/Caches/VisualStudio/8.0/Symbols/mysql-net/MySqlConnector/12f9832751d649053769fa5697d296d7de206f3e</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
